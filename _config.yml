@@ -1,1 +1,3 @@
 theme: jekyll-theme-cayman
+title: "Introduce Revenue Maximization Algorithm for Indeed.com"
+description: Delivered a XGBoost regression model to compute business values of job postings to optimize job posting rank and revenue.
