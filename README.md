@@ -1,5 +1,5 @@
 # About the Project
-The main goal of this project was to maximize Indeed's revenue. Since Indeed's business model is PayPerClick, we wanted to achieve the goal by increasing number of clicks of job postings. Consequently, we accessed the potential business value of a job upon posting and correspondingly optimized ranks of job postings.
+The main goal of this project was to maximize Indeed's revenue. Since Indeed's business model is PayPerClick, we wanted to achieve the goal by increasing number of clicks of job postings. Consequently, we accessed the potential business value of a job upon posting and correspondingly optimized order of job postings.
 
 # Methodology
 * Data was provided by *[Indeed](https://www.indeed.com/)* (data size: 2.58GB)
@@ -7,7 +7,7 @@ The main goal of this project was to maximize Indeed's revenue. Since Indeed's b
 * Implemented XGBoost regression to derive significant features and corresponding weights for two KPIs
 * Regarded the significant features as the driving factors of potential business value of job postings
 * Computed potential values to any future job posting using important features and weightings (score 0-100)
-* Optimized ranks of job postings on *indeed.com* by ascending order of potential values
+* Optimized order of job postings on *indeed.com* by ascending order of potential values
 * **Won Best Insights Award**
 
 <em>This project was done in 48 hours, and was presented to statisticians and Indeed data scientists. </em>
